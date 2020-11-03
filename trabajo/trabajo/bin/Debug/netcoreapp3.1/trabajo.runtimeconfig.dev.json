@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Familia Piza\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Familia Piza\\.nuget\\packages"
+    ]
+  }
+}
